@@ -1,29 +1,29 @@
 ## React Native Social Media App
 
-A cross platform (iOS and Android) React Native news app. This example was put together for [React Native by Example](https://www.reactnativebyexample.com/). Get started learning & mastering React Native for free!
+A cross platform (iOS and Android) React Native news app. This example was put together for [React Native School](https://www.reactnativeschool.com/). Get started learning & mastering React Native!
 
 ![Reference Designs](./assets/reference.png)
 
 ### Installation
 
-> **Note:** Be sure you have the React Native CLI [installed on your system](https://facebook.github.io/react-native/docs/getting-started).
+> **Note:** To use this example make sure to have [Expo installed](https://expo.io/learn).
 
-- `git clone https://github.com/ReactNativeSchool/react-native-social-media-app.git`
+- `git clone https://github.com/ReactNativeSchool/react-native-social-media-app-2.git`
 - `cd mobile`
-- `yarn install`/`npm install`
+- `npm install`
 - `(cd ios && pod install)`
 - `cd ../server`
-- `yarn install`/`npm install`
+- `npm install`
 
 ### Running Mobile
 
 - `cd mobile`
-- `yarn run ios`/`npm run ios` or `yarn run android`/`npm run android`
+- `npm run ios` or `npm run android`
 
 ### Running Server
 
 - `cd server`
-- `yarn dev`
+- `npm run dev`
 
 ---
 
